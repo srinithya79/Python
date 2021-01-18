@@ -1,0 +1,25 @@
+WHAT CAN YOU DO WITH PYTHON
+
+HOW OUTSIDE LIBRARIES AND FRAMEWORKS THAT GREATLY EXPAND PYTHON CAPABILITIES
+
+--Automate simple tasks--
+searching for files and editing them
+scraping information from a website
+Reading and editing excel files
+work with PDFs
+automate emails and text messages
+fill out forms
+
+--Data Science and Machine Learning--
+Analyze large data files
+create visulizations
+perform Machine learning tasks
+create and run predictive algorithms
+
+--create websites--
+use web FRAMEWORKS such as django and flask to handle the backend of a website and user Data
+create interactive dashboards for users
+
+
+
+
