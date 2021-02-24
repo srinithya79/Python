@@ -1,0 +1,29 @@
+5 Blogs Websites That You Must Need To Follow For Python
+
+1. Fullstackpython.com
+
+2. Realpython.com
+
+3. Talkpython.fm
+
+4. Pybloggers.com
+
+5. finxter.com/blog
+
+
+🌟 4 Free Hosting Services For Django 🌟
+
+Host your Django Application for free with these four Hosting Services 👇
+
+
+1. Amazon AWS
+https://aws.amazon.com/
+
+2. Heroku
+https://www.heroku.com/
+
+3. OpenShift
+https://www.openshift.com/
+
+4. PythonAnywhere
+https://www.pythonanywhere.com/
