@@ -1,0 +1,61 @@
+How to set up a virtual environment in windows
+=================================
+
+Verify pip
+-----------------------------
+pip --version
+
+You can make sure that pip is up-to-date by running:
+---------------------------------------------------------------
+pip install --user --upgrade pip 
+or 
+python -m pip install --upgrade pip
+
+Installing virtualenv
+--------------------------
+pip install --user virtualenv
+
+Creating a virtual environment
+-------------------------------------
+py -m venv env
+
+Activating a virtual environment
+---------------------------------------
+.\env\Scripts\activate
+
+Confirm you’re in the virtual environment
+---------------------------------------------------
+where python
+
+Installing packages
+-----------------------
+pip install requests
+
+Installing specific versions
+---------------------------------
+pip install requests==2.18.4
+
+Using requirements files
+-------------------------------
+you could create a requirements.txt file containing:
+requests==2.18.4
+google-auth==1.1.0
+
+pip install -r requirements.txt
+
+Freezing dependencies
+----------------------------
+Pip can export a list of all installed packages and their versions using the freeze command:
+pip freeze
+
+Leaving the virtual environment
+----------------------------------------
+If you want to switch projects or otherwise leave your virtual environment, simply run:
+deactivate 
+
+Benefit of virtual environment:
+virtualenv  really shines when you have a number of projects, and don't want them to all share the same 
+Python installation. For example, you could have two project with conflicting requirements.
+
+
+*********************************************************
